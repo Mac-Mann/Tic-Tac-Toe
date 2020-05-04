@@ -12,11 +12,15 @@ This project was 100% coded by myself. The purpose is to get some practical expe
 
 - React & TypeScript
 
-  - TSLint
+  - Material UI
+  - React-router
+  - Redux
+  - Eslint-tslint
   - Jest testing
   - Enzyme testing
+  - Stryker mutator testing
   - MVC Design Pattern
-    ES6 Modules and Factor Functions for code organization
+  - ES6 Modules and classes for code organization
 
 - SCSS
 
