@@ -10,25 +10,26 @@ This project was 100% coded by myself. The purpose is to get some practical expe
 
 ## Highlights - To be implemented
 
-* React & TypeScript
-  * TSLint
-  * Jest testing
-  * Enzyme testing
-  * MVC Design Pattern
+- React & TypeScript
+
+  - TSLint
+  - Jest testing
+  - Enzyme testing
+  - MVC Design Pattern
     ES6 Modules and Factor Functions for code organization
 
-* SCSS
-  * 7-1 Pattern
-  * OOCSS
-  * User Friendly Animations and Design
+- SCSS
 
-* CircleCI
-* Local Storage
-* Custom Sounds and SVGs
-* PWA
-* Minimax AI algorithm
+  - 7-1 Pattern
+  - OOCSS
+  - User Friendly Animations and Design
+
+- CircleCI
+- Local Storage
+- Custom Sounds and SVGs
+- PWA
+- Minimax AI algorithm
 
 ## Status
 
 This project is active. 🚀
-# Not-Your-Average-Tic-Tac-Toe
