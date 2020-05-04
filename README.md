@@ -1,6 +1,6 @@
 # Not-Your-Average-Tic-Tac-Toe
 
-A tic-tac-toe game that seeks to push the limits and demonstrate my web developer skills. Made with React, TypeScript, SCSS, TsLint, Jest, and CircleCI.
+A tic-tac-toe game that seeks to push the limits and demonstrate my web developer skills.
 
 ## General Info
 
